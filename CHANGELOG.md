@@ -1,3 +1,11 @@
+# Improved `@` mention search
+### [1.0.340] - 2025-08-15 (Fri. Aug 15)
+We improved the way `@` mention search works
+- Improved fuzziness of search
+- Space bar allows you to continue searching, and searches across keywords, e.g. if you search `operation route` it'll pull up the `route.ts` file in the `operation` folder. This is useful for frameworks like NextJS where many files are called `page.tsx` or `route.tsx`
+- We now show a nice file path view and the full relative path of the file so you're making
+<img width="1766" height="920" alt="image" src="https://github.com/user-attachments/assets/32e5245b-c236-41fd-888e-7b4f942e96d6" />
+
 # Improved git workflow for working with your Claude Code Sessions
 ### [1.0.339] - 2025-08-15 (Fri. Aug 15)
 We felt the pain of working with Git Worktrees, and the strangeness of some of the workflows that came up when wanting to test. It felt off to have to test branches inside of the git worktrees, and most users don't care about the details of how git worktrees work. 
