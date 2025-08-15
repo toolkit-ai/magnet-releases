@@ -1,4 +1,5 @@
 # Improved git workflow for working with your Claude Code Sessions
+### [1.0.339] - 2025-08-15 (Fri. Aug 15)
 We felt the pain of working with Git Worktrees, and the strangeness of some of the workflows that came up when wanting to test. It felt off to have to test branches inside of the git worktrees, and most users don't care about the details of how git worktrees work. 
 
 Now we hope the workflow feels more intiutive for you, and how you naturally work with `git` for the most part.
