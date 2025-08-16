@@ -1,5 +1,5 @@
 # Instant Claude Code Sessions for every issue & split view with chat
-### [1.0.341] - 2025-08-16 (sat. Aug 16)
+### [1.0.341] - 2025-08-16 (Sat. Aug 16)
 
 Loom Video of the Changes: https://www.loom.com/share/097d6a58cf10491cb95a5c534e2a0574
 <img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc94b86-81e1-4aa8-91f9-839479273501" />
