@@ -1,4 +1,17 @@
 # Improved `@` mention search
+
+### [1.0.341] - 2025-08-16 (sat. Aug 16)
+
+Loom Video of the Changes: https://www.loom.com/share/097d6a58cf10491cb95a5c534e2a0574
+<img width="1728" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc94b86-81e1-4aa8-91f9-839479273501" />
+
+- Issues have a Claude Code Session created right away
+- Improved issue UX where you have the issue and your claude code chat session side by side
+- App sidebar has a cleaned up design, and it collapses to a hoverable sidebar at smaller window sizes
+- Added some polish to the status icons for issues
+- Small design polish items to the issue list view
+
+
 ### [1.0.340] - 2025-08-15 (Fri. Aug 15)
 We improved the way `@` mention search works
 - Improved fuzziness of search
