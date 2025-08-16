@@ -1,5 +1,4 @@
-# Improved `@` mention search
-
+# Instant Claude Code Sessions for every issue & split view with chat
 ### [1.0.341] - 2025-08-16 (sat. Aug 16)
 
 Loom Video of the Changes: https://www.loom.com/share/097d6a58cf10491cb95a5c534e2a0574
@@ -11,7 +10,7 @@ Loom Video of the Changes: https://www.loom.com/share/097d6a58cf10491cb95a5c534e
 - Added some polish to the status icons for issues
 - Small design polish items to the issue list view
 
-
+# Improved `@` mention search
 ### [1.0.340] - 2025-08-15 (Fri. Aug 15)
 We improved the way `@` mention search works
 - Improved fuzziness of search
