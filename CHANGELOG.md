@@ -1,3 +1,37 @@
+# Auto-Issue Title Generation & Enhanced Navigation
+
+## [1.0.353] - 2025-08-22 (Thu. Aug 22)
+- **AI-powered issue titles** - We found we were often repeating what we wrote in the title for the description, and it felt more natural to have AI generate suggested titles for issues.
+- **Keyboard shortcuts for issue creation** - Submit the create issue form with `Cmd+Enter`, suggest title with `Cmd+'`
+- **Native browser navigation** - Use familiar back/forward shortcuts (Cmd+[ and Cmd+]) to navigate
+through the app
+- **Improved issue filters** - Cleaner filter UI with better empty states and "Clear all filters" action
+- **macOS notification onboarding** - Guided setup flow for enabling system notifications
+- **Performance boost** - Fixed slow loading in Issues page with optimized batch fetching
+
+### UI Improvements
+- Kanban board now respects active status filters
+- Fixed avatar shrinking in organization member selector
+- Sidebar repo name is now clickable to open settings
+- Better error pages with clearer messaging
+- Responsive filter buttons that adapt to screen size
+
+### Small fixes
+- Fixed header panel button alignment
+- Improved autofocus behavior in issue editor
+- Claude login validation checks
+
+# Enhanced Diagnostics & GitHub Authentication fixes
+### [1.0.351] - 2025-08-19 (Mon. Aug 19) 
+
+- New diagnostics and error reporting system - Added comprehensive diagnostics reporting with Zapier
+integration for better debugging
+- Improved GitHub OAuth flow - Fixed sign-up redirect issues and auto-sign-in for existing OAuth
+accounts
+- Enhanced worktree management - Better rollback capabilities and branch availability guarantees
+- UI improvements - Fixed toast notification visibility when modals are open
+- Session management - Added loading spinner and updated tooltip for Open Session PR button
+
 # Instant Claude Code Sessions for every issue & split view with chat
 ### [1.0.341] - 2025-08-16 (Sat. Aug 16)
 
