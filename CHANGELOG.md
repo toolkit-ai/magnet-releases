@@ -1,5 +1,5 @@
 # Auto-Issue Title Generation & Enhanced Navigation
-## [1.0.353] - 2025-08-22 (Fri. Aug 22)
+### [1.0.353] - 2025-08-22 (Fri. Aug 22)
 - **AI-powered issue titles** - We found we were often repeating what we wrote in the title for the description, and it felt more natural to have AI generate suggested titles for issues.
 - **Keyboard shortcuts for issue creation** - Submit the create issue form with `Cmd+Enter`, suggest title with `Cmd+'`
 - **Native browser navigation** - Use familiar back/forward shortcuts (Cmd+[ and Cmd+]) to navigate
