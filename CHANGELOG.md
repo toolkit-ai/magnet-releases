@@ -101,3 +101,24 @@ There's a ton of UX improvements in this branch, and lots more inbound!
 ![Open Sessions Quickly](https://github.com/user-attachments/assets/e4c74e09-c6af-4658-8a81-8a33e266301e)
 
 <img width="1180" height="878" alt="image" src="https://github.com/user-attachments/assets/cdbad1bc-becb-4622-9449-d34fd0072d8c" />
+
+
+# Better Sidebar, Claude CLI Upgrade, Stability Improvements
+### [1.0.354] - 2025-08-26 (Tues. Aug 26)
+
+Major improvements to Claude Code integration, issue tracking, and application stability.
+
+- Better Claude Code Session Management - Stabilized a function ref for diffs to prevent
+unnecessary re-renders
+- Recent Issues - Added sidebar with recent issues
+- System Instructions Support - Claude should open PRs with worktree/ prefix less often.
+
+UI Improvements
+
+- Improved folder selection screen
+- Optimized panel layout proportions for better responsiveness
+
+Small Fixes
+
+- Some code cleanup around settings
+- Upgraded Claude Code CLI to latest 1.0.90
