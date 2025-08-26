@@ -122,3 +122,8 @@ Small Fixes
 
 - Some code cleanup around settings
 - Upgraded Claude Code CLI to latest 1.0.90
+
+# Optimization for Larger Workspaces
+### [1.0.355] - 2025-08-26 (Tues. Aug 26)
+
+We optimized certain areas of the Magnet client that could become slower as the number of issues in users' workspaces continued to grow.
